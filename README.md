@@ -19,7 +19,7 @@ This interactive dashboard analyzes Netflix Movies and TV Shows based on:
 - USA and India contribute the highest content
 
 ## Files
-- `[Netflix_Dashboard_Tableau.twbx](https://github.com/Ankita973/Netflix-Dashboard/blob/main/netflix%20dashboard.twbx)` – Tableau packaged workbook
+- [Netflix_Dashboard_Tableau.twbx](https://github.com/Ankita973/Netflix-Dashboard/blob/main/netflix%20dashboard.twbx) – Tableau packaged workbook
 
 
 
