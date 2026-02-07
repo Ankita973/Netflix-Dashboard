@@ -19,9 +19,9 @@ This interactive dashboard analyzes Netflix Movies and TV Shows based on:
 - USA and India contribute the highest content
 
 ## Files
-- `Netflix_Dashboard_Tableau.twbx` – Tableau packaged workbook
-- `dashboard_preview.png` – Dashboard image
-- `data/` – Excel dataset
+- `[Netflix_Dashboard_Tableau.twbx](https://github.com/Ankita973/Netflix-Dashboard/blob/main/netflix%20dashboard.twbx)` – Tableau packaged workbook
+
+
 
 ## How to View
 Download the `.twbx` file and open it using Tableau Desktop or Tableau Public.
