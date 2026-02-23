@@ -22,6 +22,6 @@ This interactive dashboard analyzes Netflix Movies and TV Shows based on:
 - [Netflix_Dashboard_Tableau.twbx](https://github.com/Ankita973/Netflix-Dashboard/blob/main/netflix%20dashboard.twbx) – Tableau packaged workbook
 
 
+## dashboard picture
+<img width="1280" height="700" alt="image" src="https://github.com/user-attachments/assets/95798abe-4d83-475a-9a20-674d4e39bbdf" />
 
-## How to View
-Download the `.twbx` file and open it using Tableau Desktop or Tableau Public.
